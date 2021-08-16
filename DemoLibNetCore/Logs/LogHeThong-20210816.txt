@@ -1,0 +1,3 @@
+2021-08-16T11:18:28.5198025+07:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-08-16T11:18:28.5311576+07:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-08-16T11:18:28.5313444+07:00  [INF] Content root path: "D:\Du an\Web\Demo\DemoLibNetCore" (b5d60022)
